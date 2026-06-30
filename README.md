@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ghanish23/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/ghanish23/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ghanish23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ghanish23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ghanish23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ghanish23/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/ghanish23/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ghanish23/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ghanish23/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ghanish23/LeetCode/tree/master/0283-move-zeroes) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ghanish23/LeetCode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ghanish23/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
