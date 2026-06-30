@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ghanish23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ghanish23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ghanish23/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ghanish23/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ghanish23/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ghanish23/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ghanish23/LeetCode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghanish23/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
