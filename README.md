@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ghanish23/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ghanish23/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ghanish23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/ghanish23/LeetCode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghanish23/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghanish23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ghanish23/LeetCode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ghanish23/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
